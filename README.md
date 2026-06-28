@@ -1,4 +1,4 @@
-# cybersecurity-portfolio
+ # cybersecurity-portfolio
 Cybersecurity portfolio showcasing practical skills in cryptography, reverse engineering, binary exploitation, web security, digital forensics, and OSINT through CTF competitions and personal projects.
 
 Profile
@@ -40,7 +40,7 @@ Competition Achievements
 
 GreyCTF 2026 — 2nd Place (Team: F1ux)
 
-WWCTF 2025 — 15th Place (Team)
+WWCTF 2025 — 15th Place (Team：Team Name)
 
 Griffles CTF 2026 — 3rd Place (Solo)
 
